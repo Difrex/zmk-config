@@ -67,7 +67,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TILDE  &kp EXCL  &kp LT                &kp KP_EQUAL  &kp GREATER_THAN       &kp GRAVE    &kp CARET  &kp LEFT_BRACE      &kp MINUS  &kp RIGHT_BRACE      &kp RPAR  &kp BSPC
+&kp TILDE  &kp EXCL  &kp LT                &kp KP_EQUAL  &kp GREATER_THAN       &kp GRAVE    &kp CARET  &kp LEFT_BRACKET    &kp MINUS  &kp RIGHT_BRACKET    &kp RPAR  &kp BSPC
 &kp LCTRL  &trans    &kp LEFT_PARENTHESIS  &kp MINUS     &kp RIGHT_PARENTHESIS  &kp PLUS     &kp MINUS  &kp LS(LEFT_BRACE)  &kp UNDER  &kp LS(RIGHT_BRACE)  &kp BSLH  &kp GRAVE
 &kp LSHFT  &trans    &trans                &trans        &trans                 &trans       &kp UNDER  &kp PLUS            &kp LBRC   &kp RBRC             &kp PIPE  &kp TILDE
                                            &kp LGUI      &trans                 &kp SPACE    &trans     &trans              &trans
